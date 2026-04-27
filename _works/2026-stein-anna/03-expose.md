@@ -3,11 +3,11 @@
 ## Problemfeld & Kontext
 
 Durch die voranschreitenden Entwicklung des Webdesigns und der Frontend-Entwicklung kommen immer mehr neue Funktionen bekannter CSS-Technologien, wie beispielsweise CSS-Grid, auf den Markt.
-Oft fehlt es den Frontend-Entwickler, oder auch den Webdesignern, an Wissen, was diese CSS-Technologien an Funktionen mitbringen und, wie diese genutzt werden können. Das Potenzial dieser wird daher nicht vollkommen ausgeschöpft, weshalb neue Kombinationen der CSS-Technologien technisch, wie auch gestalterisch, untergehen.
+Oft fehlt es den Frontend-Entwickler, oder auch den Webdesignern, an Wissen daran, was diese CSS-Technologien an Funktionen mitbringen und, wie diese genutzt werden können. Das Potenzial dieser wird daher nicht vollkommen ausgeschöpft, weshalb neue Kombinationen der CSS-Technologien technisch, wie auch gestalterisch, untergehen. Trotz der dauerhaften Weiterentwicklung der modernen CSS-Technologien verwenden Frontend-Entwickler meist nur die etablierten und standartmäßig genutzten Funktionen dieser Technologien.
 
 ## Ziel
 
-Ziel ist es die Potenzialia der CSS-Technologien zu analysieren und mögliche Kombinationen dieser prototypisch auszuarbeiten. Vor allem sollen folgende Technologien in dieser Arbeit betrachtet werden: CSS-Grid, -Subgrid, -Flexbox, sowie die Anwendung responsiver Darstellung, durch Media- und Container-Queries. 
+Ziel ist es die Potenziale der CSS-Technologien zu analysieren und mögliche Kombinationen dieser prototypisch auszuarbeiten. Vor allem sollen folgende Technologien in dieser Arbeit betrachtet werden: CSS-Grid, -Subgrid, -Flexbox, sowie die Anwendung responsiver Darstellung durch Media- und Container-Queries. 
 Durch die Ausarbeitung der verschiedenen Funktionen und derer Kombinationen, soll es möglich sein, neue Layout- und Rasterkonzepte zu entwickeln, die im Webdesign für neue Gestaltungsmöglichkeiten sorgen und in der Webentwicklung flexible Umsetzungsmöglichkeiten bieten. 
 
 ## Aufgabenstellung
@@ -30,7 +30,7 @@ Für die Arbeit werden Fachliteratur zu CSS-Layout-Techniken, aktuelle Artikel a
 Meine persönliche Motivation liegt darin, die Schnittstelle zwischen Gestaltung und Technik im Web weiter auszuleuchten. Als Medieninformatikerin sehe ich die Stärke darin, visuelle Konzepte mit technischer Umsetzbarkeit zu verbinden und dadurch neue, nutzerfreundliche Layoutlösungen zu entwickeln.
 
 ## Setup, Abhängigkeiten & Meilensteine
-Für das Projekt wird eine gut ausgestattete Entwicklungsumgebung (in diesem Fall VS-Code) benötigt, einschließlich eines modernen Browsers mit DevTools (Chrome). Idealerweise gibt es Feedback von meinem Betreuer (Prof. Christian Noss) oder Experten aus dem Bereich Webdesign bzw. Webentwicklung, sowie regelmäßige Meilensteine für Analyse, Prototyping und Dokumentation. Alle zwei Wochen wird ein kurzes Video zum Stand des Projekts gedreht, welcher meinem Professor als Unterstützung zum Verlauf des Praxisprojekts dient, aber auch eine große Hilfe für das "Dranbleiben" am Projekt darstellt. 
+Für das Projekt wird eine gut ausgestattete Entwicklungsumgebung (in diesem Fall VS-Code) benötigt, einschließlich eines modernen Browsers mit DevTools (Chrome). Idealerweise gibt es Feedback von meinem Betreuer (Prof. Christian Noss) oder Experten aus dem Bereich Webdesign bzw. Webentwicklung, sowie regelmäßige Meilensteine für Analyse, Prototyping und Dokumentation. Alle zwei Wochen wird ein kurzes Video zum Stand des Projekts gedreht, welches meinem Betreuer als Unterstützung zum Verlauf des Praxisprojekts dient, aber auch mir eine große Hilfe für das "Dranbleiben" am Projekt darstellt. 
 
 ## Arbeitsergebnis
 Am Ende der Arbeit stehen dokumentierte Analyseergebnisse, ein Vergleichsmodell für CSS-Layout-Techniken, sowie prototypische Beispiele neuer CSS-Kombinationen. Die Zielgruppe kann diese Ergebnisse als Inspirationsquelle nutzen und direkt in eigenen Webprojekten anwenden, um flexiblere und modernere Layoutlösungen zu entwickeln.

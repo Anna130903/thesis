@@ -16,7 +16,7 @@
 
 7. Grid, Subgrid und Flexbox im Web: Entwicklung neuer responsiver Rasterkonzepte
 
-8. <u>**Potenziale moderner CSS-Technologien: Prototypische Umsetzung moderner Layout-Features**</u>
+8. <u>**Potenziale moderner CSS-Technologien: Prototypische Umsetzung der Kombination moderner Layout-Features**</u>
 
 9. CSS-Layout-Strategien für zeitgemäße Webseiten: Analyse und Prototypen von CSS-Technologien
 
